@@ -1,6 +1,6 @@
 # CSDoge
 # Demo
-![](CSDoge_Demo.gif)
+![](CSDoge-Demo.gif)
 
 
 # Install
