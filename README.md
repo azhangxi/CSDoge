@@ -1,6 +1,6 @@
 # CSDoge
 # Demo
-![](CSDoge_Demo.gif)
+![](CSDoge_Demo.gif)("https://github.com/azhangxi/CSDoge/blob/main/CSDoge-Demo.gif?raw=true")
 
 
 # Install
